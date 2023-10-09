@@ -1,0 +1,18 @@
+{
+  "name": "bsppp",
+  "version": "1.0.0",
+  "description": "threejs bsp csg language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "molen",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.157.0",
+    "three-bvh-csg": "^0.0.10"
+  },
+  "devDependencies": {
+    "vite": "^4.4.11"
+  }
+}
